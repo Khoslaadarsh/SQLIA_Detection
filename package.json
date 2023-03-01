@@ -1,0 +1,19 @@
+{
+  "name": "sqlia_detect",
+  "version": "1.0.0",
+  "description": "detects sqlia based on pattern matching and trimming the string using z-algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khoslaadarsh/SQLIA_detection.git"
+  },
+  "author": "Adarsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khoslaadarsh/SQLIA_detection/issues"
+  },
+  "homepage": "https://github.com/Khoslaadarsh/SQLIA_detection#readme"
+}
